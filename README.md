@@ -1,8 +1,6 @@
 # eki-data
-日本の駅名を翻訳するプロジェクト
+* 일본의 역명과 노선명을 한국어로 번역하는 repo
+* encode는 UTF-8
 
-エンコードはUTF-8を利用してください。
-
-## 駅のデータについて
-
-http://www.ekidata.jp/
+## origin data
+* http://www.ekidata.jp/
